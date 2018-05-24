@@ -3,10 +3,8 @@ __pycache__/
 *.so
 
 # Packages
-*.egg
 *.egg-info
-.eggs/
-dist
+*.eggs
 build
 eggs
 parts
